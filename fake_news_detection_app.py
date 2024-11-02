@@ -38,7 +38,7 @@ def preprocess_text(text):
 with open("rf_model_compressed.joblib", 'rb') as model_file:
         loaded_model = joblib.load(model_file)
 
-with open("C:/Users/91776/Downloads/tfidf_vectorizer.joblib", 'rb') as vectorizer_file:
+with open("tfidf_vectorizer.joblib", 'rb') as vectorizer_file:
     loaded_tfidf = joblib.load(vectorizer_file)
 
 # Streamlit title and input area
