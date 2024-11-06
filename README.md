@@ -1,4 +1,4 @@
-#Fake News Detection Using NLP
+**Fake News Detection Using NLP**
 
 This repository contains a comprehensive project for classifying news articles as fake or real. The project leverages various machine learning models and text processing techniques to achieve accurate classification results.
 
