@@ -2,7 +2,7 @@
 
 This repository contains a comprehensive project for classifying news articles as fake or real. The project leverages various machine learning models and text processing techniques to achieve accurate classification results.
 
-Project Overview
+**Project Overview**
 
 Data Collection: Collected a dataset of news articles labeled as fake or real. The dataset was preprocessed to prepare it for analysis.
 
