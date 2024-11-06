@@ -1,4 +1,4 @@
-Fake News Detection Using NLP
+**Fake News Detection Using NLP**
 
 This repository contains a comprehensive project for classifying news articles as fake or real. The project leverages various machine learning models and text processing techniques to achieve accurate classification results.
 
@@ -6,13 +6,13 @@ Project Overview
 
 Data Collection: Collected a dataset of news articles labeled as fake or real. The dataset was preprocessed to prepare it for analysis.
 
-Data Preprocessing:
+**Data Preprocessing:**
 
 Text Cleaning: Removed noise from the text data, including punctuation, stop words, and special characters.
 
 Feature Extraction: Employed techniques such as TF-IDF vectorization to convert text data into numerical format suitable for modeling.
 
-Model Building:
+**Model Building:**
 
 Random Forest: Implemented the Random Forest classifier, which demonstrated robust performance in distinguishing between fake and real news articles.
 
