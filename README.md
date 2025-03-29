@@ -23,6 +23,9 @@ Model Evaluation: Evaluated model performance using metrics such as accuracy, pr
 
 Deployment: The Random Forest model was deployed using Streamlit, providing a user-friendly interface for users to input news articles and receive classification results in real-time.
 
+
+
+
 ****Try the App****
 
 You can try out the Fake News Classification App [here](https://fake-news-detection-hnp.streamlit.app/)
