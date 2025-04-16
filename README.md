@@ -26,6 +26,7 @@ Deployment: The Random Forest model was deployed using Streamlit, providing a us
 
 
 
+
 ****Try the App****
 
 You can try out the Fake News Classification App [here](https://fake-news-detection-hnp.streamlit.app/)
