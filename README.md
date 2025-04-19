@@ -1,6 +1,5 @@
 # Fake News Detection Using NLP**
 
-
 ---
 
 ### 📑 Table of Contents
