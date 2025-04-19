@@ -1,6 +1,5 @@
-**Fake News Detection Using NLP**
+# Fake News Detection Using NLP**
 
-Here's a **Table of Contents** you can use for your Fake News Detection project:
 
 ---
 
